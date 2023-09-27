@@ -1,7 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:interviewtask/pages/signup.dart';
-import 'package:interviewtask/pages/signup1.dart';
 
 void main() {
   runApp(const MyApp());
